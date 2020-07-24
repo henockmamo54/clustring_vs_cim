@@ -14,7 +14,7 @@ from sklearn import metrics as m
 import itertools
 
 # set random state
-seed=45◘
+seed=45
 np.random.seed(seed)
 
 iris= datasets.load_iris()
